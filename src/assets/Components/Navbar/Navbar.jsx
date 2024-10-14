@@ -16,7 +16,7 @@ const Navbar = () => {
 
  <Link to={'/'}>  <div className="text-2xl font-medium text-white">CryptoMart</div>  </Link>   
 
-      {/* Navigation Links for Larger Screens */}
+      {/* Navigation Links for Larger Screens */} 
       <div className="hidden md:flex gap-10">
    <Link to={'/'}> <span className="text-white hover:text-gray-400 cursor-pointer"> 
           Home
